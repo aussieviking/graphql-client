@@ -1,4 +1,13 @@
+@font-face{ 
+  font-family: 'Nunito';
+  src: url('Nunito-SemiBold.ttf') format('truetype');
+}
+
 body {
   background: #eee;
-  font-family: "Nunito SemiBold";
+  font-family: "Nunito";
+}
+
+#book-list li {
+  line-height: 1.7em;
 }
